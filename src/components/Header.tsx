@@ -9,7 +9,7 @@ const Header: React.FC = () => {
         <div className="flex items-center">
           <CheckSquare className="text-indigo-600 dark:text-indigo-400 mr-3" size={28} />
           <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-100">
-            TaskFlow
+            TaskManager
           </h1>
         </div>
         <ThemeToggle />

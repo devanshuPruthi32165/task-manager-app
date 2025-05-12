@@ -20,7 +20,7 @@ function App() {
             </main>
             
             <footer className="text-center text-gray-500 dark:text-gray-600 text-sm py-4">
-              <p>TaskFlow App &copy; {new Date().getFullYear()}</p>
+              <p>TaskManager App &copy; {new Date().getFullYear()}</p>
             </footer>
           </div>
         </div>
